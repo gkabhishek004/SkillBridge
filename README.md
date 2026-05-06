@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillBridge Attendance Management System
 
 A full-stack, role-based attendance management platform for state-level skilling programmes.
@@ -224,3 +225,7 @@ After deploying, create accounts with these roles for testing:
 ## 📄 License
 
 MIT
+=======
+# SkillBridge
+SkillBridge
+>>>>>>> 197c12741a5f470995a28cd44c3f3989e9e588d7
